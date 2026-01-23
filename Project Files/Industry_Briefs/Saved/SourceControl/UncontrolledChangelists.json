@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Levels/Testing.umap",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/GM_GameMode.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/UI/WD_ShopHUD.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/UI/WD_HUD.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/S_Item.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/DT_Item.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/DT_Items.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/S_Items.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/UI/WD_ShopItem.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Blueprints/EN_Factions.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Images/T_TrueSons.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Images/T_BlackTusk.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Images/T_Hyenas.uasset",
+				"U:/GitHubDesktop/Industry-Briefs/Project Files/Industry_Briefs/Content/Images/T_Outcasts.uasset"
+			]
+		}
+	]
+}
